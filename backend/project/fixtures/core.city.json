@@ -1,0 +1,590 @@
+[
+{
+    "model": "core.city",
+    "pk": 1,
+    "fields": {
+        "name": "Aberdeen"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 2,
+    "fields": {
+        "name": "Aldershot"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 3,
+    "fields": {
+        "name": "Ashford"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 4,
+    "fields": {
+        "name": "Ashton-under-Lyne"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 5,
+    "fields": {
+        "name": "Barnsley"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 6,
+    "fields": {
+        "name": "Basildon"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 7,
+    "fields": {
+        "name": "Bedford"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 8,
+    "fields": {
+        "name": "Belfast"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 9,
+    "fields": {
+        "name": "Birmingham"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 10,
+    "fields": {
+        "name": "Boldon Tyne and Wear"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 11,
+    "fields": {
+        "name": "Bolton"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 12,
+    "fields": {
+        "name": "Bracknell"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 13,
+    "fields": {
+        "name": "Bradford"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 14,
+    "fields": {
+        "name": "Braintree"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 15,
+    "fields": {
+        "name": "Brighton"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 16,
+    "fields": {
+        "name": "Bristol"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 17,
+    "fields": {
+        "name": "Broughton"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 18,
+    "fields": {
+        "name": "Burton upon Trent"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 19,
+    "fields": {
+        "name": "Bury St Edmunds"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 20,
+    "fields": {
+        "name": "Cardiff"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 21,
+    "fields": {
+        "name": "Castleford"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 22,
+    "fields": {
+        "name": "Cheltenham"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 23,
+    "fields": {
+        "name": "Chesterfield"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 24,
+    "fields": {
+        "name": "Chichester"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 25,
+    "fields": {
+        "name": "Crawley"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 26,
+    "fields": {
+        "name": "Dalton Park"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 27,
+    "fields": {
+        "name": "Didcot"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 28,
+    "fields": {
+        "name": "Didsbury"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 29,
+    "fields": {
+        "name": "Dover"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 30,
+    "fields": {
+        "name": "Dundee"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 31,
+    "fields": {
+        "name": "Eastbourne at The Beacon"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 32,
+    "fields": {
+        "name": "Edinburgh"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 33,
+    "fields": {
+        "name": "Ely"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 34,
+    "fields": {
+        "name": "Falkirk"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 35,
+    "fields": {
+        "name": "Glasgow"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 36,
+    "fields": {
+        "name": "Gloucester Quays"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 37,
+    "fields": {
+        "name": "Harlow"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 38,
+    "fields": {
+        "name": "Haverhill"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 39,
+    "fields": {
+        "name": "Hemel Hempstead"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 40,
+    "fields": {
+        "name": "High Wycombe"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 41,
+    "fields": {
+        "name": "Hinckley"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 42,
+    "fields": {
+        "name": "Hull"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 43,
+    "fields": {
+        "name": "Huntingdon"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 44,
+    "fields": {
+        "name": "Ipswich"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 45,
+    "fields": {
+        "name": "Jersey"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 46,
+    "fields": {
+        "name": "Leeds"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 47,
+    "fields": {
+        "name": "Leigh"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 48,
+    "fields": {
+        "name": "Llandudno"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 49,
+    "fields": {
+        "name": "London"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 50,
+    "fields": {
+        "name": "Loughborough"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 51,
+    "fields": {
+        "name": "Luton"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 52,
+    "fields": {
+        "name": "Middlesbrough"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 53,
+    "fields": {
+        "name": "Milton Keynes"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 54,
+    "fields": {
+        "name": "Newcastle upon Tyne"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 55,
+    "fields": {
+        "name": "Newport"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 56,
+    "fields": {
+        "name": "Northampton"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 57,
+    "fields": {
+        "name": "Nottingham"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 58,
+    "fields": {
+        "name": "Plymouth"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 59,
+    "fields": {
+        "name": "Poole"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 60,
+    "fields": {
+        "name": "Rochester"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 61,
+    "fields": {
+        "name": "Rugby"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 62,
+    "fields": {
+        "name": "Runcorn"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 63,
+    "fields": {
+        "name": "Rushden Lakes"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 64,
+    "fields": {
+        "name": "Sheffield"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 65,
+    "fields": {
+        "name": "Shrewsbury"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 66,
+    "fields": {
+        "name": "Solihull"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 67,
+    "fields": {
+        "name": "Speke"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 68,
+    "fields": {
+        "name": "Stevenage"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 69,
+    "fields": {
+        "name": "St Helens"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 70,
+    "fields": {
+        "name": "St Neots"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 71,
+    "fields": {
+        "name": "Stoke-on-Trent"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 72,
+    "fields": {
+        "name": "Swindon"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 73,
+    "fields": {
+        "name": "Telford"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 74,
+    "fields": {
+        "name": "Wakefield"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 75,
+    "fields": {
+        "name": "Warrington"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 76,
+    "fields": {
+        "name": "Watford"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 77,
+    "fields": {
+        "name": "Weston-super-Mare"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 78,
+    "fields": {
+        "name": "Weymouth"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 79,
+    "fields": {
+        "name": "Whiteley"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 80,
+    "fields": {
+        "name": "Witney"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 81,
+    "fields": {
+        "name": "Wolverhampton"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 82,
+    "fields": {
+        "name": "Yate"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 83,
+    "fields": {
+        "name": "Yeovil"
+    }
+},
+{
+    "model": "core.city",
+    "pk": 84,
+    "fields": {
+        "name": "York"
+    }
+}
+]

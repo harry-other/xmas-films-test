@@ -1,0 +1,7 @@
+black
+curlylint
+django-debug-toolbar
+djhtml
+isort
+pytest-django
+ruff

@@ -1,0 +1,78 @@
+[
+{
+    "model": "core.film",
+    "pk": 1,
+    "fields": {
+        "name": "The Holiday",
+        "slug": "the-holiday",
+        "release_date": "2006",
+        "genre": "Romance/Comedy",
+        "showing_from": "16 November",
+        "certificate": "12A",
+        "description": "A woman plagued by man trouble finds her fortune improves when she befriends an Englishwoman while on vacation.",
+        "running_time": "146 mins",
+        "image_1": "film_images/the_holiday_1.jpg",
+        "image_2": "film_images/the_holiday_2.jpg",
+        "copyright": "THE HOLIDAY © 2006 Columbia Pictures Industries, Inc. and GH One LLC. All Rights Reserved.",
+        "live": false,
+        "sold_out": false
+    }
+},
+{
+    "model": "core.film",
+    "pk": 2,
+    "fields": {
+        "name": "The Polar Express",
+        "slug": "the-polar-express",
+        "release_date": "2004",
+        "genre": "Fantasy/Family",
+        "showing_from": "25 November",
+        "certificate": "U",
+        "description": "Late on Christmas Eve, a boy sits in bed doubting the existence of Santa Claus and waiting to hear the sound of sleigh bells. Instead, a magical steam engine roars outside his window and he begins an extraordinary journey towards the North Pole and beyond his imagination.",
+        "running_time": "110 mins",
+        "image_1": "film_images/polar_express_1.jpg",
+        "image_2": "film_images/polar_express_2.jpg",
+        "copyright": "POLAR EXPRESS © 2004 Warner Bros. Entertainment Inc. All rights reserved.",
+        "live": true,
+        "sold_out": false
+    }
+},
+{
+    "model": "core.film",
+    "pk": 3,
+    "fields": {
+        "name": "Wonka",
+        "slug": "wonka",
+        "release_date": "2023",
+        "genre": "Family/Adventure/Fantasy",
+        "showing_from": "8 December",
+        "certificate": "PG",
+        "description": "When a hopeful, wide-eyed Willy Wonka arrives at the centre of the chocolate-making world, he has nothing but a few coins in his pocket and a hatful of dreams—one of which is to open his own chocolate shop, on par with the world’s greatest chocolatiers. But in this grand, if unforgiving, city, Willy’s modicum of cash is spent quickly, leading him down a path of hardship and servitude at a nearby laundry house. Though Willy’s prospects seem dashed, his hopes are not, even if the business of making chocolate is far tougher than it seems, and Willy’s genius is not welcomed by the candy cartel, who will stop at nothing to keep their clientele to themselves. However, thanks to his singular brand of brilliant ingenuity, some out-of-the-box (and hat!) thinking and the help of a few larger-than-life friends—particularly, a bright young orphan girl named Noodle—Willy becomes more determined than ever to use his talents and tenacity to make his dream come true. Through the enchantingly delicious, sometimes dangerous, life-affirming adventure that follows, Willy discovers that, while most people he encounters will choose greed over good, every cloud has a silver lining…all you need is pure imagination.",
+        "running_time": "130 mins",
+        "image_1": "film_images/wonka_1.jpg",
+        "image_2": "film_images/wonka_2.jpg",
+        "copyright": "WONKA © 2023 Warner Bros. Entertainment Inc. All rights reserved",
+        "live": true,
+        "sold_out": false
+    }
+},
+{
+    "model": "core.film",
+    "pk": 4,
+    "fields": {
+        "name": "The Muppet Christmas Carol",
+        "slug": "the-muppet-christmas-carol",
+        "release_date": "1992",
+        "genre": "Family/Musical",
+        "showing_from": "16 December",
+        "certificate": "U",
+        "description": "Tis the season for love, laughter, and one of the most cherished stories of all time! Join Kermit the Frog, Miss Piggy, and all the hilarious Muppets in this merry, magical version of Charles Dickens' classic tale. Academy Award® winner Michael Caine (Best Supporting Actor) gives a performance that's anything but \"bah, humbug!\" as greedy, penny-pinching Ebenezer Scrooge. One fateful Christmas Eve, Scrooge is visited by the Ghosts of Christmas Past, Present, and Future. Together with kind, humble Bob Cratchit (Kermit the Frog) and his family, the Spirits open Scrooge's eyes - and his heart - to the true meaning of Christmas. \r\n\r\nFilled with original music and dazzling special effects, THE MUPPET CHRISTMAS CAROL will become a holiday tradition your family will treasure all the days of the year.",
+        "running_time": "95 mins",
+        "image_1": "film_images/muppets_christmas_carol_1.jpg",
+        "image_2": "film_images/muppets_christmas_carol_2.jpg",
+        "copyright": "THE MUPPET CHRISTMAS CAROL © 2023 Disney. All Rights Reserved.",
+        "live": true,
+        "sold_out": false
+    }
+}
+]

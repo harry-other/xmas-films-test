@@ -1,0 +1,13 @@
+.main {
+  display: grid;
+}
+
+.label {
+  font-family: "TESCO Modern Bold", sans-serif;
+  margin-bottom: 0.35rem;
+}
+
+.errors {
+  margin-top: 0.5rem;
+  color: red;
+}

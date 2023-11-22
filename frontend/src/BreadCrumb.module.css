@@ -1,0 +1,44 @@
+.main {
+  display: flex;
+  justify-content: center;
+  margin: 2rem auto;
+  flex-wrap: wrap;
+}
+
+.spacer {
+  height: 1rem;
+}
+
+@media (min-width: 640px) {
+  .spacer {
+    height: 2rem;
+  }
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  line-height: 1;
+  padding: 1rem 0.5rem;
+}
+
+.item::before {
+  content: "";
+  width: 0.75rem;
+  height: 0.75rem;
+  border-radius: 50%;
+  border: 1px solid white;
+  position: relative;
+  top: 0.05rem;
+}
+
+.item.active::before {
+  background-color: yellow;
+}
+
+@media (max-width: 639px) {
+  .main {
+    margin: 2rem auto;
+  }
+}

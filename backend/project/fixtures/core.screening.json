@@ -1,0 +1,4314 @@
+[
+{
+    "model": "core.screening",
+    "pk": 1,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-aberdeen-queens-links-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 2,
+        "capacity": 131
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 2,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-aberdeen-queens-links-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 2,
+        "capacity": 131
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 3,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-aberdeen-queens-links-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 2,
+        "capacity": 131
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 4,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-aberdeen-queens-links-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 2,
+        "capacity": 131
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 5,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-aberdeen-union-square-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 3,
+        "capacity": 215
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 6,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-aberdeen-union-square-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 3,
+        "capacity": 192
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 7,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-aberdeen-union-square-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 3,
+        "capacity": 192
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 8,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-aberdeen-union-square-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 3,
+        "capacity": 192
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 9,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-aldershot-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 4,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 10,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-aldershot-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 4,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 11,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-aldershot-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 4,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 12,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-aldershot-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 4,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 13,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-ashford-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 5,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 14,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-ashford-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 5,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 15,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-ashford-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 5,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 16,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-ashford-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 5,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 17,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-ashton-under-lyne-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 6,
+        "capacity": 150
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 18,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-ashton-under-lyne-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 6,
+        "capacity": 150
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 19,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-ashton-under-lyne-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 6,
+        "capacity": 150
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 20,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-ashton-under-lyne-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 6,
+        "capacity": 150
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 21,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-barnsley-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 7,
+        "capacity": 130
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 22,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-barnsley-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 7,
+        "capacity": 181
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 23,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-barnsley-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 7,
+        "capacity": 130
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 24,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-barnsley-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 7,
+        "capacity": 130
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 25,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-basildon-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 8,
+        "capacity": 201
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 26,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-basildon-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 8,
+        "capacity": 184
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 27,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-basildon-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 8,
+        "capacity": 184
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 28,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-basildon-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 8,
+        "capacity": 184
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 29,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-bedford-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 9,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 30,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-bedford-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 9,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 31,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-bedford-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 9,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 32,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-bedford-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 9,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 33,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-belfast-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 10,
+        "capacity": 266
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 34,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-belfast-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 10,
+        "capacity": 267
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 35,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-belfast-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 10,
+        "capacity": 267
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 36,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-belfast-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 10,
+        "capacity": 267
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 37,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-birmingham-broad-street-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 11,
+        "capacity": 201
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 38,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-birmingham-broad-street-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 11,
+        "capacity": 171
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 39,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-birmingham-broad-street-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 11,
+        "capacity": 171
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 40,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-birmingham-broad-street-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 11,
+        "capacity": 171
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 41,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-birmingham-nec-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 12,
+        "capacity": 207
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 42,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-birmingham-nec-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 12,
+        "capacity": 144
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 43,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-birmingham-nec-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 12,
+        "capacity": 144
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 44,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-birmingham-nec-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 12,
+        "capacity": 144
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 45,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-boldon-tyne-and-wear-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 13,
+        "capacity": 207
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 46,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-boldon-tyne-and-wear-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 13,
+        "capacity": 207
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 47,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-boldon-tyne-and-wear-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 13,
+        "capacity": 207
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 48,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-boldon-tyne-and-wear-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 13,
+        "capacity": 207
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 49,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-bolton-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 14,
+        "capacity": 136
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 50,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-bolton-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 14,
+        "capacity": 136
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 51,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-bolton-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 14,
+        "capacity": 136
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 52,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-bolton-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 14,
+        "capacity": 136
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 53,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-bracknell-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 15,
+        "capacity": 158
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 54,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-bracknell-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 15,
+        "capacity": 158
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 55,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-bracknell-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 15,
+        "capacity": 158
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 56,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-bracknell-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 15,
+        "capacity": 158
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 57,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-bradford-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 16,
+        "capacity": 132
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 58,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-bradford-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 16,
+        "capacity": 132
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 59,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-bradford-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 16,
+        "capacity": 132
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 60,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-bradford-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 16,
+        "capacity": 132
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 61,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-braintree-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 17,
+        "capacity": 148
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 62,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-braintree-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 17,
+        "capacity": 148
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 63,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-braintree-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 17,
+        "capacity": 148
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 64,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-braintree-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 17,
+        "capacity": 148
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 65,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-brighton-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 18,
+        "capacity": 164
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 66,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-brighton-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 18,
+        "capacity": 164
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 67,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-brighton-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 18,
+        "capacity": 164
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 68,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-brighton-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 18,
+        "capacity": 164
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 73,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-broughton-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 20,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 74,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-broughton-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 20,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 75,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-broughton-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 20,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 76,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-broughton-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 20,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 77,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-burton-upon-trent-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 21,
+        "capacity": 156
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 78,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-burton-upon-trent-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 21,
+        "capacity": 123
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 79,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-burton-upon-trent-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 21,
+        "capacity": 123
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 80,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-burton-upon-trent-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 21,
+        "capacity": 123
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 81,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-bury-st-edmunds-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 22,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 82,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-bury-st-edmunds-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 22,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 83,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-bury-st-edmunds-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 22,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 84,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-bury-st-edmunds-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 22,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 85,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-cardiff-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 23,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 86,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-cardiff-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 23,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 87,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-cardiff-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 23,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 88,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-cardiff-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 23,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 89,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-castleford-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 24,
+        "capacity": 116
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 90,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-castleford-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 24,
+        "capacity": 116
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 91,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-castleford-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 24,
+        "capacity": 116
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 92,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-castleford-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 24,
+        "capacity": 116
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 93,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-cheltenham-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 25,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 94,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-cheltenham-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 25,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 95,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-cheltenham-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 25,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 96,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-cheltenham-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 25,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 97,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-chesterfield-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 26,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 98,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-chesterfield-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 26,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 99,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-chesterfield-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 26,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 100,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-chesterfield-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 26,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 101,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-chichester-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 27,
+        "capacity": 189
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 102,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-chichester-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 27,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 103,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-chichester-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 27,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 104,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-chichester-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 27,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 105,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-crawley-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 28,
+        "capacity": 167
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 106,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-crawley-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 28,
+        "capacity": 167
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 107,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-crawley-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 28,
+        "capacity": 167
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 108,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-crawley-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 28,
+        "capacity": 167
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 109,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-dalton-park-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 29,
+        "capacity": 132
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 110,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-dalton-park-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 29,
+        "capacity": 132
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 111,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-dalton-park-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 29,
+        "capacity": 132
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 112,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-dalton-park-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 29,
+        "capacity": 132
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 113,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-didcot-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 30,
+        "capacity": 106
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 114,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-didcot-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 30,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 115,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-didcot-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 30,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 116,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-didcot-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 30,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 117,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-didsbury-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 31,
+        "capacity": 168
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 118,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-didsbury-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 31,
+        "capacity": 168
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 119,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-didsbury-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 31,
+        "capacity": 168
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 120,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-didsbury-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 31,
+        "capacity": 168
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 121,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-dover-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 32,
+        "capacity": 128
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 122,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-dover-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 32,
+        "capacity": 128
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 123,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-dover-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 32,
+        "capacity": 128
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 124,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-dover-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 32,
+        "capacity": 128
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 125,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-dundee-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 33,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 126,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-dundee-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 33,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 127,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-dundee-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 33,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 128,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-dundee-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 33,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 129,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-eastbourne-at-the-beacon-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 34,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 130,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-eastbourne-at-the-beacon-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 34,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 131,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-eastbourne-at-the-beacon-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 34,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 132,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-eastbourne-at-the-beacon-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 34,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 133,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-edinburgh-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 35,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 134,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-edinburgh-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 35,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 135,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-edinburgh-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 35,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 136,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-edinburgh-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 35,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 137,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-ely-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 36,
+        "capacity": 136
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 138,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-ely-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 36,
+        "capacity": 136
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 139,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-ely-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 36,
+        "capacity": 136
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 140,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-ely-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 36,
+        "capacity": 136
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 141,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-falkirk-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 37,
+        "capacity": 131
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 142,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-falkirk-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 37,
+        "capacity": 131
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 143,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-falkirk-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 37,
+        "capacity": 131
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 144,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-falkirk-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 37,
+        "capacity": 131
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 149,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-glasgow-renfrew-street-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 39,
+        "capacity": 154
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 150,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-glasgow-renfrew-street-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 39,
+        "capacity": 154
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 151,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-glasgow-renfrew-street-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 39,
+        "capacity": 154
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 152,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-glasgow-renfrew-street-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 39,
+        "capacity": 154
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 153,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-glasgow-silverburn-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 40,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 154,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-glasgow-silverburn-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 40,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 155,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-glasgow-silverburn-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 40,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 156,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-glasgow-silverburn-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 40,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 157,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-gloucester-quays-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 41,
+        "capacity": 144
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 158,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-gloucester-quays-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 41,
+        "capacity": 144
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 159,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-gloucester-quays-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 41,
+        "capacity": 144
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 160,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-gloucester-quays-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 41,
+        "capacity": 144
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 161,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-harlow-harvey-centre-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 42,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 162,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-harlow-harvey-centre-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 42,
+        "capacity": 159
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 163,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-harlow-harvey-centre-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 42,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 164,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-harlow-harvey-centre-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 42,
+        "capacity": 159
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 165,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-harlow-queensgate-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 43,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 166,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-harlow-queensgate-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 43,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 167,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-harlow-queensgate-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 43,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 168,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-harlow-queensgate-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 43,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 169,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-haverhill-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 44,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 170,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-haverhill-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 44,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 171,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-haverhill-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 44,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 172,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-haverhill-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 44,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 173,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-hemel-hempstead-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 45,
+        "capacity": 176
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 174,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-hemel-hempstead-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 45,
+        "capacity": 176
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 175,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-hemel-hempstead-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 45,
+        "capacity": 176
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 176,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-hemel-hempstead-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 45,
+        "capacity": 176
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 177,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-high-wycombe-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 46,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 178,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-high-wycombe-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 46,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 179,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-high-wycombe-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 46,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 180,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-high-wycombe-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 46,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 181,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-hinckley-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 47,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 182,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-hinckley-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 47,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 183,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-hinckley-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 47,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 184,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-hinckley-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 47,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 185,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-hull-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 48,
+        "capacity": 173
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 186,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-hull-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 48,
+        "capacity": 160
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 187,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-hull-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 48,
+        "capacity": 160
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 188,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-hull-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 48,
+        "capacity": 160
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 189,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-huntingdon-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 49,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 190,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-huntingdon-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 49,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 191,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-huntingdon-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 49,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 192,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-huntingdon-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 49,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 193,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-ipswich-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 50,
+        "capacity": 175
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 194,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-ipswich-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 50,
+        "capacity": 175
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 195,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-ipswich-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 50,
+        "capacity": 175
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 196,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-ipswich-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 50,
+        "capacity": 175
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 201,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-leeds-white-rose-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 52,
+        "capacity": 170
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 202,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-leeds-white-rose-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 52,
+        "capacity": 156
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 203,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-leeds-white-rose-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 52,
+        "capacity": 156
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 204,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-leeds-white-rose-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 52,
+        "capacity": 156
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 205,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-leigh-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 53,
+        "capacity": 152
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 206,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-leigh-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 53,
+        "capacity": 152
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 207,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-leigh-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 53,
+        "capacity": 152
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 208,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-leigh-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 53,
+        "capacity": 152
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 209,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-llandudno-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 54,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 210,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-llandudno-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 54,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 211,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-llandudno-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 54,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 212,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-llandudno-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 54,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 213,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-london-bexleyheath-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 55,
+        "capacity": 179
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 214,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-london-bexleyheath-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 55,
+        "capacity": 144
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 215,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-london-bexleyheath-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 55,
+        "capacity": 144
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 216,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-london-bexleyheath-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 55,
+        "capacity": 144
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 217,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-london-enfield-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 56,
+        "capacity": 163
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 218,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-london-enfield-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 56,
+        "capacity": 156
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 219,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-london-enfield-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 56,
+        "capacity": 156
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 220,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-london-enfield-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 56,
+        "capacity": 156
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 221,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-london-feltham-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 57,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 222,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-london-feltham-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 57,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 223,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-london-feltham-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 57,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 224,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-london-feltham-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 57,
+        "capacity": 146
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 225,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-london-hounslow-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 58,
+        "capacity": 132
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 226,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-london-hounslow-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 58,
+        "capacity": 132
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 227,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-london-hounslow-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 58,
+        "capacity": 132
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 228,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-london-hounslow-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 58,
+        "capacity": 132
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 229,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-london-ilford-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 59,
+        "capacity": 127
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 230,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-london-ilford-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 59,
+        "capacity": 137
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 231,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-london-ilford-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 59,
+        "capacity": 137
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 232,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-london-ilford-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 59,
+        "capacity": 137
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 233,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-london-leicester-square-2023-11-16-20-30",
+        "starts_at": "2023-11-16T20:30:00Z",
+        "cinema": 60,
+        "capacity": 87
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 234,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-london-leicester-square-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 60,
+        "capacity": 87
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 235,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-london-leicester-square-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 60,
+        "capacity": 87
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 236,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-london-leicester-square-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 60,
+        "capacity": 87
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 237,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-london-south-ruislip-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 61,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 238,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-london-south-ruislip-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 61,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 239,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-london-south-ruislip-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 61,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 240,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-london-south-ruislip-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 61,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 241,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-london-the-o2-greenwich-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 62,
+        "capacity": 174
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 242,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-london-the-o2-greenwich-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 62,
+        "capacity": 174
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 243,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-london-the-o2-greenwich-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 62,
+        "capacity": 174
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 244,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-london-the-o2-greenwich-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 62,
+        "capacity": 174
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 245,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-london-wandsworth-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 63,
+        "capacity": 151
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 246,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-london-wandsworth-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 63,
+        "capacity": 151
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 247,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-london-wandsworth-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 63,
+        "capacity": 151
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 248,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-london-wandsworth-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 63,
+        "capacity": 151
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 249,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-london-wembley-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 64,
+        "capacity": 148
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 250,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-london-wembley-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 64,
+        "capacity": 148
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 251,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-london-wembley-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 64,
+        "capacity": 148
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 252,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-london-wembley-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 64,
+        "capacity": 148
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 253,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-london-west-india-quay-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 65,
+        "capacity": 123
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 254,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-london-west-india-quay-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 65,
+        "capacity": 182
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 255,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-london-west-india-quay-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 65,
+        "capacity": 123
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 256,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-london-west-india-quay-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 65,
+        "capacity": 123
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 257,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-london-wood-green-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 66,
+        "capacity": 131
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 258,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-london-wood-green-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 66,
+        "capacity": 131
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 259,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-london-wood-green-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 66,
+        "capacity": 131
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 260,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-london-wood-green-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 66,
+        "capacity": 131
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 261,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-loughborough-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 67,
+        "capacity": 158
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 262,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-loughborough-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 67,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 263,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-loughborough-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 67,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 264,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-loughborough-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 67,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 265,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-luton-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 68,
+        "capacity": 141
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 266,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-luton-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 68,
+        "capacity": 158
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 267,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-luton-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 68,
+        "capacity": 158
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 268,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-luton-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 68,
+        "capacity": 158
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 269,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-middlesbrough-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 69,
+        "capacity": 141
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 270,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-middlesbrough-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 69,
+        "capacity": 141
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 271,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-middlesbrough-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 69,
+        "capacity": 141
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 272,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-middlesbrough-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 69,
+        "capacity": 141
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 273,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-milton-keynes-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 70,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 274,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-milton-keynes-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 70,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 275,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-milton-keynes-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 70,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 276,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-milton-keynes-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 70,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 277,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-newcastle-upon-tyne-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 71,
+        "capacity": 131
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 278,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-newcastle-upon-tyne-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 71,
+        "capacity": 158
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 279,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-newcastle-upon-tyne-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 71,
+        "capacity": 158
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 280,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-newcastle-upon-tyne-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 71,
+        "capacity": 158
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 285,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-newport-isle-of-wight-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 73,
+        "capacity": 150
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 286,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-newport-isle-of-wight-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 73,
+        "capacity": 150
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 287,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-newport-isle-of-wight-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 73,
+        "capacity": 150
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 288,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-newport-isle-of-wight-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 73,
+        "capacity": 150
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 289,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-newport-spytty-park-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 74,
+        "capacity": 163
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 290,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-newport-spytty-park-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 74,
+        "capacity": 132
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 291,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-newport-spytty-park-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 74,
+        "capacity": 132
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 292,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-newport-spytty-park-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 74,
+        "capacity": 132
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 293,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-northampton-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 75,
+        "capacity": 153
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 294,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-northampton-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 75,
+        "capacity": 153
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 295,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-northampton-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 75,
+        "capacity": 153
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 296,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-northampton-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 75,
+        "capacity": 153
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 297,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-nottingham-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 76,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 298,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-nottingham-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 76,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 299,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-nottingham-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 76,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 300,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-nottingham-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 76,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 301,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-plymouth-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 77,
+        "capacity": 202
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 302,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-plymouth-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 77,
+        "capacity": 202
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 303,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-plymouth-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 77,
+        "capacity": 202
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 304,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-plymouth-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 77,
+        "capacity": 202
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 305,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-poole-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 78,
+        "capacity": 182
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 306,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-poole-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 78,
+        "capacity": 182
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 307,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-poole-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 78,
+        "capacity": 182
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 308,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-poole-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 78,
+        "capacity": 182
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 309,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-rochester-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 79,
+        "capacity": 92
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 310,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-rochester-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 79,
+        "capacity": 151
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 311,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-rochester-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 79,
+        "capacity": 151
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 312,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-rochester-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 79,
+        "capacity": 151
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 313,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-rugby-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 80,
+        "capacity": 148
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 314,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-rugby-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 80,
+        "capacity": 148
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 315,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-rugby-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 80,
+        "capacity": 148
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 316,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-rugby-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 80,
+        "capacity": 148
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 321,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-rushden-lakes-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 82,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 322,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-rushden-lakes-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 82,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 323,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-rushden-lakes-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 82,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 324,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-rushden-lakes-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 82,
+        "capacity": 155
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 325,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-sheffield-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 83,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 326,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-sheffield-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 83,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 327,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-sheffield-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 83,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 328,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-sheffield-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 83,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 329,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-shrewsbury-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 84,
+        "capacity": 181
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 330,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-shrewsbury-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 84,
+        "capacity": 154
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 331,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-shrewsbury-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 84,
+        "capacity": 154
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 332,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-shrewsbury-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 84,
+        "capacity": 154
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 333,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-solihull-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 85,
+        "capacity": 141
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 334,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-solihull-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 85,
+        "capacity": 141
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 335,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-solihull-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 85,
+        "capacity": 141
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 336,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-solihull-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 85,
+        "capacity": 141
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 337,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-speke-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 86,
+        "capacity": 184
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 338,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-speke-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 86,
+        "capacity": 116
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 339,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-speke-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 86,
+        "capacity": 184
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 340,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-speke-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 86,
+        "capacity": 184
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 341,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-stevenage-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 87,
+        "capacity": 154
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 342,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-stevenage-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 87,
+        "capacity": 152
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 343,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-stevenage-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 87,
+        "capacity": 152
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 344,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-stevenage-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 87,
+        "capacity": 152
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 345,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-st-helens-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 88,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 346,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-st-helens-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 88,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 347,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-st-helens-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 88,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 348,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-st-helens-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 88,
+        "capacity": 147
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 349,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-st-neots-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 89,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 350,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-st-neots-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 89,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 351,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-st-neots-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 89,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 352,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-st-neots-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 89,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 353,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-stoke-on-trent-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 90,
+        "capacity": 175
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 354,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-stoke-on-trent-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 90,
+        "capacity": 144
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 355,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-stoke-on-trent-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 90,
+        "capacity": 144
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 356,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-stoke-on-trent-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 90,
+        "capacity": 144
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 357,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-swindon-regent-circus-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 91,
+        "capacity": 129
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 358,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-swindon-regent-circus-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 91,
+        "capacity": 129
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 359,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-swindon-regent-circus-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 91,
+        "capacity": 129
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 360,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-swindon-regent-circus-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 91,
+        "capacity": 129
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 361,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-swindon-shaw-ridge-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 92,
+        "capacity": 130
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 362,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-swindon-shaw-ridge-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 92,
+        "capacity": 151
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 363,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-swindon-shaw-ridge-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 92,
+        "capacity": 151
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 364,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-swindon-shaw-ridge-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 92,
+        "capacity": 151
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 365,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-telford-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 93,
+        "capacity": 118
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 366,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-telford-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 93,
+        "capacity": 163
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 367,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-telford-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 93,
+        "capacity": 163
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 368,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-telford-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 93,
+        "capacity": 163
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 369,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-wakefield-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 94,
+        "capacity": 152
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 370,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-wakefield-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 94,
+        "capacity": 152
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 371,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-wakefield-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 94,
+        "capacity": 152
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 372,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-wakefield-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 94,
+        "capacity": 152
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 373,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-warrington-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 95,
+        "capacity": 150
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 374,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-warrington-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 95,
+        "capacity": 148
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 375,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-warrington-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 95,
+        "capacity": 148
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 376,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-warrington-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 95,
+        "capacity": 148
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 377,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-watford-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 96,
+        "capacity": 113
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 378,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-watford-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 96,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 379,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-watford-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 96,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 380,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-watford-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 96,
+        "capacity": 143
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 381,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-weston-super-mare-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 97,
+        "capacity": 164
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 382,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-weston-super-mare-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 97,
+        "capacity": 164
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 383,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-weston-super-mare-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 97,
+        "capacity": 164
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 384,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-weston-super-mare-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 97,
+        "capacity": 164
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 385,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-weymouth-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 98,
+        "capacity": 154
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 386,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-weymouth-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 98,
+        "capacity": 150
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 387,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-weymouth-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 98,
+        "capacity": 150
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 388,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-weymouth-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 98,
+        "capacity": 150
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 389,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-whiteley-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 99,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 390,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-whiteley-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 99,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 391,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-whiteley-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 99,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 392,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-whiteley-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 99,
+        "capacity": 138
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 393,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-witney-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 100,
+        "capacity": 162
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 394,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-witney-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 100,
+        "capacity": 162
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 395,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-witney-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 100,
+        "capacity": 162
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 396,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-witney-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 100,
+        "capacity": 162
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 397,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-wolverhampton-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 101,
+        "capacity": 86
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 398,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-wolverhampton-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 101,
+        "capacity": 108
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 399,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-wolverhampton-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 101,
+        "capacity": 171
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 400,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-wolverhampton-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 101,
+        "capacity": 171
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 401,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-yate-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 102,
+        "capacity": 154
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 402,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-yate-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 102,
+        "capacity": 154
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 403,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-yate-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 102,
+        "capacity": 154
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 404,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-yate-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 102,
+        "capacity": 154
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 405,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-yeovil-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 103,
+        "capacity": 162
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 406,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-yeovil-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 103,
+        "capacity": 162
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 407,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-yeovil-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 103,
+        "capacity": 162
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 408,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-yeovil-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 103,
+        "capacity": 162
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 409,
+    "fields": {
+        "film": 1,
+        "slug": "the-holiday-york-2023-11-16-19-30",
+        "starts_at": "2023-11-16T19:30:00Z",
+        "cinema": 104,
+        "capacity": 144
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 410,
+    "fields": {
+        "film": 2,
+        "slug": "the-polar-express-york-2023-11-25-14-30",
+        "starts_at": "2023-11-25T14:30:00Z",
+        "cinema": 104,
+        "capacity": 144
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 411,
+    "fields": {
+        "film": 3,
+        "slug": "wonka-york-2023-12-08-19-30",
+        "starts_at": "2023-12-08T19:30:00Z",
+        "cinema": 104,
+        "capacity": 144
+    }
+},
+{
+    "model": "core.screening",
+    "pk": 412,
+    "fields": {
+        "film": 4,
+        "slug": "the-muppet-christmas-carol-york-2023-12-16-14-30",
+        "starts_at": "2023-12-16T14:30:00Z",
+        "cinema": 104,
+        "capacity": 144
+    }
+}
+]

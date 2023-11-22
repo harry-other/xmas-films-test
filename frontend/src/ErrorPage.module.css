@@ -1,0 +1,25 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  padding: 4rem;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.body {
+  display: grid;
+  margin-top: 1rem;
+  gap: 0.5rem;
+}
+
+.heading {
+  font-size: 3rem;
+  font-family: "TESCO Modern Bold", sans-serif;
+}
+
+.link {
+  text-decoration: underline;
+}

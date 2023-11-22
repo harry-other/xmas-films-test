@@ -1,0 +1,15 @@
+.label {
+  font-family: "TESCO Modern Bold", sans-serif;
+  margin-bottom: 0.35rem;
+}
+
+.results {
+  display: grid;
+  gap: 1rem;
+}
+
+.result {
+  align-items: center;
+  display: flex;
+  gap: 1rem;
+}

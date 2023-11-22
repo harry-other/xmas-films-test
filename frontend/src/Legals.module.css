@@ -1,0 +1,42 @@
+.main {
+  max-width: 48rem;
+}
+
+.main h2 {
+  margin-bottom: 0.5rem;
+  font-family: "TESCO Modern Bold", sans-serif;
+}
+
+.main h3 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-size: inherit;
+  font-family: "TESCO Modern Bold", sans-serif;
+}
+
+.main p {
+  margin-top: 0.5rem;
+}
+
+.main table,
+td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+
+.main td {
+  padding: 0.25rem;
+}
+
+.main > ul > li {
+  margin-top: 1rem;
+}
+
+.main > ul > li > ul {
+  list-style-type: disc;
+  margin-left: 2rem;
+  margin-top: 0.5rem;
+}
+.main > ul > li > ul > li {
+  margin-top: 0.5rem;
+}

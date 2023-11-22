@@ -1,0 +1,7 @@
+__pycache__
+*.dump
+*.sqlite3
+/.venv
+/media
+/node_modules
+/sent_emails

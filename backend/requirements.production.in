@@ -1,0 +1,6 @@
+dj-database-url
+django-anymail
+django-s3-storage
+gunicorn
+sentry-sdk
+whitenoise

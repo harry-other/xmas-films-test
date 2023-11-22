@@ -1,0 +1,10 @@
+django
+django-cors-headers
+django-lifecycle
+djangorestframework
+hashids
+ipython
+psycopg2-binary
+python-dotenv
+qrcode[pil]
+shortuuid

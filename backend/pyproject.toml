@@ -1,0 +1,25 @@
+[tool.black]
+force-exclude = "migrations|snapshots"
+line-length = 100
+
+[tool.isort]
+profile = "black"
+skip = ["migrations", ".venv"]
+known_first_party = [
+  "core",
+  "project",
+]
+known_django = "django"
+sections = ["FUTURE","STDLIB","DJANGO", "THIRDPARTY","FIRSTPARTY","LOCALFOLDER"]
+
+[tool.ruff]
+exclude = ["migrations"]
+line-length = 100
+
+[tool.pytest.ini_options]
+DJANGO_SETTINGS_MODULE = "project.settings.test"
+python_files = "tests.py test_*.py *_tests.py"
+addopts = "-p no:warnings"
+
+[tool.curlylint]
+template-tags = '[["spaceless", "endspaceless"]]'

@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.main input {
+  flex: 1;
+}
+
+@media (max-width: 374px) {
+  .main {
+    flex-direction: column;
+  }
+}

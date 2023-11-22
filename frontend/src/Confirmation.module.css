@@ -1,0 +1,26 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  gap: 1rem;
+  flex: 1;
+}
+
+.film {
+  font-size: 4.35rem;
+  line-height: 1.05;
+  letter-spacing: 0.1rem;
+  font-weight: normal;
+  font-family: "TESCO Modern Bold", sans-serif;
+}
+
+.date {
+  font-size: 1.35rem;
+  line-height: 1.25;
+  font-weight: normal;
+}
+
+.cinema {
+  font-size: 2rem;
+}

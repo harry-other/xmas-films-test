@@ -1,0 +1,44 @@
+.main {
+  display: grid;
+  gap: 1rem;
+}
+
+@media (min-width: 640px) {
+  .main {
+    gap: 1.5rem;
+  }
+}
+
+.heading {
+  font-size: 4.35rem;
+  text-align: center;
+  line-height: 1.05;
+  letter-spacing: 0.1rem;
+  font-weight: normal;
+  font-family: "TESCO Modern Bold", sans-serif;
+}
+
+.subHeading {
+  font-size: 1.35rem;
+  line-height: 1.25;
+  text-align: center;
+  font-weight: normal;
+  max-width: 46rem;
+  margin: 0 auto;
+  display: grid;
+  gap: 0.5rem;
+}
+
+.subHeading p + p {
+  margin-top: 0.5rem;
+}
+
+@media (max-width: 639px) {
+  .heading {
+    letter-spacing: 0rem;
+    font-size: 2.25rem;
+  }
+  .subHeading {
+    font-size: 1rem;
+  }
+}

@@ -1,0 +1,32 @@
+.main {
+  border-radius: 99999px;
+  border: 1px solid grey;
+  font-size: inherit;
+  padding: 0.75rem 1.5rem;
+  cursor: pointer;
+  text-align: center;
+  font-family: "TESCO Modern Bold", sans-serif;
+}
+
+.main.solid {
+  border: none;
+  background-color: rgba(33, 82, 154);
+  color: white;
+}
+
+.main.large {
+  font-size: 1.25rem;
+}
+
+.main.header {
+  color: black;
+  background-color: white;
+  border: 1px solid yellow;
+  min-width: 6rem;
+}
+
+@media (max-width: 639px) {
+  .main.header {
+    padding: 0.25rem 0.25rem;
+  }
+}

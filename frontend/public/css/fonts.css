@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "TESCO Modern";
+  src: url("../fonts/07eedf76537449d9e77ebf51398065d7.eot");
+  src: url("../fonts/07eedf76537449d9e77ebf51398065d7.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/07eedf76537449d9e77ebf51398065d7.woff") format("woff"),
+    url("../fonts/07eedf76537449d9e77ebf51398065d7.woff2") format("woff2"),
+    url("../fonts/07eedf76537449d9e77ebf51398065d7.ttf") format("truetype"),
+    url("../fonts/07eedf76537449d9e77ebf51398065d7.svg#TESCO Modern")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "TESCO Modern Bold";
+  src: url("../fonts/7c88ea12f053a84c3d05764a6cc62b4e.eot");
+  src: url("../fonts/7c88ea12f053a84c3d05764a6cc62b4e.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/7c88ea12f053a84c3d05764a6cc62b4e.woff") format("woff"),
+    url("../fonts/7c88ea12f053a84c3d05764a6cc62b4e.woff2") format("woff2"),
+    url("../fonts/7c88ea12f053a84c3d05764a6cc62b4e.ttf") format("truetype"),
+    url("../fonts/7c88ea12f053a84c3d05764a6cc62b4e.svg#TESCO Modern Bold")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

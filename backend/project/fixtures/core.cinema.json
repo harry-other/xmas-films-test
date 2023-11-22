@@ -1,0 +1,1080 @@
+[
+{
+    "model": "core.cinema",
+    "pk": 2,
+    "fields": {
+        "name": "Aberdeen - Queens Links",
+        "slug": "aberdeen-queens-links",
+        "address": "Queens Link Leisure Park, Links Rd, Aberdeen AB24 5EN, UK",
+        "lat": 57.1501169,
+        "lng": -2.0788411
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 3,
+    "fields": {
+        "name": "Aberdeen - Union Square",
+        "slug": "aberdeen-union-square",
+        "address": "Guild St, Aberdeen AB11 5RG, UK",
+        "lat": 57.144108,
+        "lng": -2.0965219
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 4,
+    "fields": {
+        "name": "Aldershot",
+        "slug": "aldershot",
+        "address": "Westgate, Unit 5 Princes Way, Aldershot GU11 1WG, UK",
+        "lat": 51.2498604,
+        "lng": -0.7685966999999999
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 5,
+    "fields": {
+        "name": "Ashford",
+        "slug": "ashford",
+        "address": "Eureka Entertainment Centre, Rutherford Rd, Ashford TN25 4BN, UK",
+        "lat": 51.1606584,
+        "lng": 0.8736794
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 6,
+    "fields": {
+        "name": "Ashton-under-Lyne",
+        "slug": "ashton-under-lyne",
+        "address": "Fold Way, Ashton Mass Leisure Park, Lord Sheldon Way, Ashton-under-Lyne OL7 0PG, UK",
+        "lat": 53.4892931,
+        "lng": -2.1100553
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 7,
+    "fields": {
+        "name": "Barnsley",
+        "slug": "barnsley",
+        "address": "30 & 32, The Glass Works, Barnsley S70 1GW, UK",
+        "lat": 53.5529575,
+        "lng": -1.4779374
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 8,
+    "fields": {
+        "name": "Basildon",
+        "slug": "basildon",
+        "address": "Festival Way, Festival Leisure Park, Basildon SS14 3WB, UK",
+        "lat": 51.5850866,
+        "lng": 0.4625224999999999
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 9,
+    "fields": {
+        "name": "Bedford",
+        "slug": "bedford",
+        "address": "Aspects Leisure Park, Newnham Ave, Bedford MK41 9LN, UK",
+        "lat": 52.13313220000001,
+        "lng": -0.4455327
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 10,
+    "fields": {
+        "name": "Belfast",
+        "slug": "belfast",
+        "address": "The Odyssey Arena, 2 Queens Quay, Belfast BT3 9QQ, UK",
+        "lat": 54.6040883,
+        "lng": -5.9161803
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 11,
+    "fields": {
+        "name": "Birmingham - Broad Street",
+        "slug": "birmingham-broad-street",
+        "address": "181 Broad St, Birmingham B15 1DA, UK",
+        "lat": 52.4742816,
+        "lng": -1.9156694
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 12,
+    "fields": {
+        "name": "Birmingham - NEC",
+        "slug": "birmingham-nec",
+        "address": "Resorts World, Pendigo Way, Marston Green, Birmingham B40 1PU, UK",
+        "lat": 52.447827,
+        "lng": -1.717817
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 13,
+    "fields": {
+        "name": "Boldon Tyne and Wear",
+        "slug": "boldon-tyne-and-wear",
+        "address": "Boldon Leisure Park, Abingdon Way, Boldon Colliery NE35 9PB, UK",
+        "lat": 54.9473059,
+        "lng": -1.4652525
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 14,
+    "fields": {
+        "name": "Bolton",
+        "slug": "bolton",
+        "address": "The Valley, 15 Eagley Brook Way, Bolton BL1 8TS, UK",
+        "lat": 53.5978001,
+        "lng": -2.4224899
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 15,
+    "fields": {
+        "name": "Bracknell",
+        "slug": "bracknell",
+        "address": "2 Eagle Ln, Bracknell RG12 1BG, UK",
+        "lat": 51.4171711,
+        "lng": -0.7507195
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 16,
+    "fields": {
+        "name": "Bradford",
+        "slug": "bradford",
+        "address": "Leisure Exchange, Vicar Ln, Bradford BD1 5LD, UK",
+        "lat": 53.79164,
+        "lng": -1.7471002
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 17,
+    "fields": {
+        "name": "Braintree",
+        "slug": "braintree",
+        "address": "Freeport Leisure, Charter Way, Braintree CM77 8YH, UK",
+        "lat": 51.8677179,
+        "lng": 0.5725650999999999
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 18,
+    "fields": {
+        "name": "Brighton",
+        "slug": "brighton",
+        "address": "Brighton Marina, Brighton and Hove, Brighton BN2 5UF, UK",
+        "lat": 50.812769,
+        "lng": -0.1057849
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 20,
+    "fields": {
+        "name": "Broughton",
+        "slug": "broughton",
+        "address": "Broughton shopping park, Chester Rd, Broughton, Bretton, Chester CH4 0DE, UK",
+        "lat": 53.1674253,
+        "lng": -2.9747359
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 21,
+    "fields": {
+        "name": "Burton upon Trent",
+        "slug": "burton-upon-trent",
+        "address": "Middleway Retail Park Guild Street, Burton upon Trent, Burton-on-Trent DE14 1NQ, UK",
+        "lat": 52.80505549999999,
+        "lng": -1.6317958
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 22,
+    "fields": {
+        "name": "Bury St Edmunds",
+        "slug": "bury-st-edmunds",
+        "address": "Parkway, Bury St Edmunds, Bury Saint Edmunds IP33 3BA, UK",
+        "lat": 52.2453624,
+        "lng": 0.7062712999999999
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 23,
+    "fields": {
+        "name": "Cardiff",
+        "slug": "cardiff",
+        "address": "Mary Ann St, Cardiff CF10 2EN, UK",
+        "lat": 51.47890899999999,
+        "lng": -3.173021
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 24,
+    "fields": {
+        "name": "Castleford",
+        "slug": "castleford",
+        "address": "Xscape, Colorado Way, Castleford WF10 4TA, UK",
+        "lat": 53.7100298,
+        "lng": -1.3413866
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 25,
+    "fields": {
+        "name": "Cheltenham",
+        "slug": "cheltenham",
+        "address": "The Brewery Quarter, Oxford Passage, St Margaret's Rd, Cheltenham GL50 4FA, UK",
+        "lat": 51.9030894,
+        "lng": -2.0759644
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 26,
+    "fields": {
+        "name": "Chesterfield",
+        "slug": "chesterfield",
+        "address": "Alma Leisure Park, Derby Rd, Chesterfield S40 2ED, UK",
+        "lat": 53.2283792,
+        "lng": -1.4225055
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 27,
+    "fields": {
+        "name": "Chichester",
+        "slug": "chichester",
+        "address": "Chichester Gate, Chichester Gate, Chichester PO19 8EL, UK",
+        "lat": 50.8304195,
+        "lng": -0.7855443999999999
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 28,
+    "fields": {
+        "name": "Crawley",
+        "slug": "crawley",
+        "address": "Crawley Leisure Park, London Rd, Crawley RH10 8LR, UK",
+        "lat": 51.1207726,
+        "lng": -0.1895475
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 29,
+    "fields": {
+        "name": "Dalton Park",
+        "slug": "dalton-park",
+        "address": "Dalton Park, Murton, Seaham SR7 9HU, UK",
+        "lat": 54.8140717,
+        "lng": -1.3770309
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 30,
+    "fields": {
+        "name": "Didcot",
+        "slug": "didcot",
+        "address": "27 Station Rd, Didcot OX11 7NE, UK",
+        "lat": 51.6072555,
+        "lng": -1.2403434
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 31,
+    "fields": {
+        "name": "Didsbury",
+        "slug": "didsbury",
+        "address": "Parrs Wood Entertainment Centre, Wilmslow Rd, Didsbury, Manchester M20 5PG, UK",
+        "lat": 53.4097405,
+        "lng": -2.2192326
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 32,
+    "fields": {
+        "name": "Dover",
+        "slug": "dover",
+        "address": "Unit 1, St James Retail & Leisure Park, St James St, Dover CT16 1QD, UK",
+        "lat": 51.1258457,
+        "lng": 1.3161245
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 33,
+    "fields": {
+        "name": "Dundee",
+        "slug": "dundee",
+        "address": "Camperdown Leisure Park, Kingsway W, Dundee DD2 4TF, UK",
+        "lat": 56.4816492,
+        "lng": -3.0235594
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 34,
+    "fields": {
+        "name": "Eastbourne at The Beacon",
+        "slug": "eastbourne-at-the-beacon",
+        "address": "The Beacon Shopping Centre, 37 Terminus Rd, Eastbourne BN21 3NW, UK",
+        "lat": 50.76891670000001,
+        "lng": 0.2827985
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 35,
+    "fields": {
+        "name": "Edinburgh",
+        "slug": "edinburgh",
+        "address": "130/3 Dundee St, Edinburgh EH11 1AF, UK",
+        "lat": 55.9413485,
+        "lng": -3.2180338
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 36,
+    "fields": {
+        "name": "Ely",
+        "slug": "ely",
+        "address": "Leisure Village, Downham Rd, Ely CB6 2WH, UK",
+        "lat": 52.41032509999999,
+        "lng": 0.2512579
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 37,
+    "fields": {
+        "name": "Falkirk",
+        "slug": "falkirk",
+        "address": "Central Retail Park, Old Bison, Falkirk FK1 1LW, UK",
+        "lat": 56.0029006,
+        "lng": -3.7770222
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 39,
+    "fields": {
+        "name": "Glasgow - Renfrew Street",
+        "slug": "glasgow-renfrew-street",
+        "address": "7 Renfrew St, Glasgow G2 3AB, UK",
+        "lat": 55.8650246,
+        "lng": -4.254426899999999
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 40,
+    "fields": {
+        "name": "Glasgow - Silverburn",
+        "slug": "glasgow-silverburn",
+        "address": "Silverburn Shopping Centre, 763 Barrhead Rd, Glasgow G53 6AG, UK",
+        "lat": 55.8231207,
+        "lng": -4.3428437
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 41,
+    "fields": {
+        "name": "Gloucester Quays",
+        "slug": "gloucester-quays",
+        "address": "Quays Outlet Centre, Merchants' Rd, Gloucester GL1 5SH, UK",
+        "lat": 51.8605217,
+        "lng": -2.2531576
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 42,
+    "fields": {
+        "name": "Harlow - Harvey Centre",
+        "slug": "harlow-harvey-centre",
+        "address": "Harvey Shopping Centre, Harlow CM20 1XR, UK",
+        "lat": 51.7690844,
+        "lng": 0.0912943
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 43,
+    "fields": {
+        "name": "Harlow - Queensgate",
+        "slug": "harlow-queensgate",
+        "address": "The Queensgate Centre, Edinburgh Way, Harlow CM20 2DA, UK",
+        "lat": 51.78463300000001,
+        "lng": 0.1093593
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 44,
+    "fields": {
+        "name": "Haverhill",
+        "slug": "haverhill",
+        "address": "Ehringshausen Way, Haverhill CB9 0ER, UK",
+        "lat": 52.0815794,
+        "lng": 0.4432465
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 45,
+    "fields": {
+        "name": "Hemel Hempstead",
+        "slug": "hemel-hempstead",
+        "address": "Jarman Park, Hemel Hempstead HP2 4JW, UK",
+        "lat": 51.74804719999999,
+        "lng": -0.4547913
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 46,
+    "fields": {
+        "name": "High Wycombe",
+        "slug": "high-wycombe",
+        "address": "Denmark St, High Wycombe HP11 2DB, UK",
+        "lat": 51.6311966,
+        "lng": -0.7556569
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 47,
+    "fields": {
+        "name": "Hinckley",
+        "slug": "hinckley",
+        "address": "The Crescent, Station Rd, Hinckley LE10 1AW, UK",
+        "lat": 52.5390189,
+        "lng": -1.3736756
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 48,
+    "fields": {
+        "name": "Hull",
+        "slug": "hull",
+        "address": "Kingswood Retail Park, Gibraltar Rd, Hull HU7 3DB, UK",
+        "lat": 53.79136800000001,
+        "lng": -0.3534584000000001
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 49,
+    "fields": {
+        "name": "Huntingdon",
+        "slug": "huntingdon",
+        "address": "Tower Fields, Abbots Ripton Rd, Sapley, Huntingdon PE29 7EG, UK",
+        "lat": 52.3508469,
+        "lng": -0.1796857
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 50,
+    "fields": {
+        "name": "Ipswich",
+        "slug": "ipswich",
+        "address": "Cardinal Park, 11 Grafton Way, Ipswich IP1 1AX, UK",
+        "lat": 52.0534757,
+        "lng": 1.1497381
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 52,
+    "fields": {
+        "name": "Leeds - White Rose",
+        "slug": "leeds-white-rose",
+        "address": "Dewsbury Rd, Leeds LS11 8LU, UK",
+        "lat": 53.7586208,
+        "lng": -1.5757128
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 53,
+    "fields": {
+        "name": "Leigh",
+        "slug": "leigh",
+        "address": "The Loom, Spinning Jenny Wy, Leigh WN7 4PE, UK",
+        "lat": 53.4932113,
+        "lng": -2.5143202
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 54,
+    "fields": {
+        "name": "Llandudno",
+        "slug": "llandudno",
+        "address": "Leisure Park, Junction Way, Llandudno Junction LL31 9XX, UK",
+        "lat": 53.2822687,
+        "lng": -3.80844
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 55,
+    "fields": {
+        "name": "London - Bexleyheath",
+        "slug": "london-bexleyheath",
+        "address": "Bexleyheath, UK",
+        "lat": 51.45334099999999,
+        "lng": 0.13822
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 56,
+    "fields": {
+        "name": "London - Enfield",
+        "slug": "london-enfield",
+        "address": "Southbury Leisure Centre, 208 Southbury Rd, Enfield EN1 1YQ, UK",
+        "lat": 51.6501849,
+        "lng": -0.06088420000000001
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 57,
+    "fields": {
+        "name": "London - Feltham",
+        "slug": "london-feltham",
+        "address": "Leisure west, Air Park Way, Feltham TW13 7LX, UK",
+        "lat": 51.4437893,
+        "lng": -0.4044764
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 58,
+    "fields": {
+        "name": "London - Hounslow",
+        "slug": "london-hounslow",
+        "address": "Hounslow, UK",
+        "lat": 51.46092179999999,
+        "lng": -0.373149
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 59,
+    "fields": {
+        "name": "London - Ilford",
+        "slug": "london-ilford",
+        "address": "Ilford, UK",
+        "lat": 51.556619,
+        "lng": 0.076251
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 60,
+    "fields": {
+        "name": "London - Leicester Square",
+        "slug": "london-leicester-square",
+        "address": "5-6 Leicester Square, London WC2H 7NA, UK",
+        "lat": 51.5108106,
+        "lng": -0.1304653
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 61,
+    "fields": {
+        "name": "London - South Ruislip",
+        "slug": "london-south-ruislip",
+        "address": "South Ruislip, Ruislip HA4, UK",
+        "lat": 51.55507919999999,
+        "lng": -0.399575
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 62,
+    "fields": {
+        "name": "London - The O2 Greenwich",
+        "slug": "london-the-o2-greenwich",
+        "address": "The O2, Peninsula Square, London SE10 0DX, UK",
+        "lat": 51.5031924,
+        "lng": 0.0044716
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 63,
+    "fields": {
+        "name": "London - Wandsworth",
+        "slug": "london-wandsworth",
+        "address": "Southside Shopping Centre, Wandsworth High St, London SW18 4TF, UK",
+        "lat": 51.4540209,
+        "lng": -0.193428
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 64,
+    "fields": {
+        "name": "London - Wembley",
+        "slug": "london-wembley",
+        "address": "Wembley Park Blvd, Wembley HA9 0FD, UK",
+        "lat": 51.5565785,
+        "lng": -0.2839104
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 65,
+    "fields": {
+        "name": "London - West India Quay",
+        "slug": "london-west-india-quay",
+        "address": "West India Quay, Hertsmere Rd, London E14 4AL, UK",
+        "lat": 51.5078639,
+        "lng": -0.022363
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 66,
+    "fields": {
+        "name": "London - Wood Green",
+        "slug": "london-wood-green",
+        "address": "The Mall, High Rd, London N22 6LU, UK",
+        "lat": 51.5943628,
+        "lng": -0.1080761
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 67,
+    "fields": {
+        "name": "Loughborough",
+        "slug": "loughborough",
+        "address": "Baxter Gate, Old Hospital Ct, Loughborough LE11 1TH, UK",
+        "lat": 52.7721655,
+        "lng": -1.2035554
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 68,
+    "fields": {
+        "name": "Luton",
+        "slug": "luton",
+        "address": "The White House, Bridge St, Luton LU1 2NB, UK",
+        "lat": 51.8818897,
+        "lng": -0.4178841
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 69,
+    "fields": {
+        "name": "Middlesbrough",
+        "slug": "middlesbrough",
+        "address": "Leisure Park, Marton Rd, Middlesbrough TS1 2DY, UK",
+        "lat": 54.5761896,
+        "lng": -1.2281116
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 70,
+    "fields": {
+        "name": "Milton Keynes",
+        "slug": "milton-keynes",
+        "address": "602 Marlborough Gate, Milton Keynes MK9 3XS, UK",
+        "lat": 52.04119799999999,
+        "lng": -0.7491129
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 71,
+    "fields": {
+        "name": "Newcastle upon Tyne",
+        "slug": "newcastle-upon-tyne",
+        "address": "The Gate, Newgate St, Newcastle upon Tyne NE1 5TG, UK",
+        "lat": 54.9724003,
+        "lng": -1.6180268
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 73,
+    "fields": {
+        "name": "Newport - Isle of Wight",
+        "slug": "newport-isle-of-wight",
+        "address": "Cineworld Cinema, Coppins Bridge, Newport PO30 2TA, UK",
+        "lat": 50.6991144,
+        "lng": -1.2893871
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 74,
+    "fields": {
+        "name": "Newport - Spytty Park",
+        "slug": "newport-spytty-park",
+        "address": "Spytty Rd, Newport NP19 4QQ, UK",
+        "lat": 51.5739519,
+        "lng": -2.9426371
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 75,
+    "fields": {
+        "name": "Northampton",
+        "slug": "northampton",
+        "address": "Sixfields Leisure, Weedon Rd, Northampton NN5 5QJ, UK",
+        "lat": 52.2367661,
+        "lng": -0.9366536999999999
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 76,
+    "fields": {
+        "name": "Nottingham",
+        "slug": "nottingham",
+        "address": "29 Forman St, Nottingham NG1 4AA, UK",
+        "lat": 52.9555117,
+        "lng": -1.1507059
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 77,
+    "fields": {
+        "name": "Plymouth",
+        "slug": "plymouth",
+        "address": "Unit 17, 11 Bretonside, Plymouth PL4 0FE, UK",
+        "lat": 50.3707626,
+        "lng": -4.1365471
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 78,
+    "fields": {
+        "name": "Poole",
+        "slug": "poole",
+        "address": "Tower Retail Park, Poole BH12 4NY, UK",
+        "lat": 50.7457576,
+        "lng": -1.9523064
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 79,
+    "fields": {
+        "name": "Rochester",
+        "slug": "rochester",
+        "address": "Medway Valley Lesiure Park, Chariot Way, Rochester ME2 2SS, UK",
+        "lat": 51.37959499999999,
+        "lng": 0.47482
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 80,
+    "fields": {
+        "name": "Rugby",
+        "slug": "rugby",
+        "address": "Junction One, Leicester Rd, Rugby CV21 1RW, UK",
+        "lat": 52.3854919,
+        "lng": -1.2568877
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 82,
+    "fields": {
+        "name": "Rushden Lakes",
+        "slug": "rushden-lakes",
+        "address": "Unit 16 Northampton Rd, West Terrace, Rushden NN10 6FA, UK",
+        "lat": 52.3005722,
+        "lng": -0.6283352999999999
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 83,
+    "fields": {
+        "name": "Sheffield",
+        "slug": "sheffield",
+        "address": "Broughton Ln, Sheffield S9 2EP, UK",
+        "lat": 53.40259229999999,
+        "lng": -1.4139184
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 84,
+    "fields": {
+        "name": "Shrewsbury",
+        "slug": "shrewsbury",
+        "address": "Old Potts Way, Shrewsbury SY3 7ET, UK",
+        "lat": 52.7030761,
+        "lng": -2.7393729
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 85,
+    "fields": {
+        "name": "Solihull",
+        "slug": "solihull",
+        "address": "47 Homer Rd, Solihull B91 3QW, UK",
+        "lat": 52.4119125,
+        "lng": -1.7789165
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 86,
+    "fields": {
+        "name": "Speke",
+        "slug": "speke",
+        "address": "New Mersey Retail Park Speke, New Mersey Retail Park, Speke Rd, Speke, Liverpool L24 8QB, UK",
+        "lat": 53.3492787,
+        "lng": -2.880486
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 87,
+    "fields": {
+        "name": "Stevenage",
+        "slug": "stevenage",
+        "address": "Stevenage Leisure Park, Kings Way, Stevenage SG1 2UA, UK",
+        "lat": 51.9001949,
+        "lng": -0.2097632
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 88,
+    "fields": {
+        "name": "St Helens",
+        "slug": "st-helens",
+        "address": "Chalon Way W, St Helens, Saint Helens WA10 1BF, UK",
+        "lat": 53.4515395,
+        "lng": -2.7410238
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 89,
+    "fields": {
+        "name": "St Neots",
+        "slug": "st-neots",
+        "address": "The Rowley Arts Centre, Huntingdon St, St Neots, Saint Neots PE19 1BH, UK",
+        "lat": 52.22889970000001,
+        "lng": -0.2642599
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 90,
+    "fields": {
+        "name": "Stoke-on-Trent",
+        "slug": "stoke-on-trent",
+        "address": "City Centre, Quadrant Rd, Hanley, Stoke-on-Trent ST1 1PS, UK",
+        "lat": 53.0292159,
+        "lng": -2.1765591
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 91,
+    "fields": {
+        "name": "Swindon - Regent Circus",
+        "slug": "swindon-regent-circus",
+        "address": "11 Victoria Rd, Swindon SN1 1FA, UK",
+        "lat": 51.5576886,
+        "lng": -1.7808191
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 92,
+    "fields": {
+        "name": "Swindon - Shaw Ridge",
+        "slug": "swindon-shaw-ridge",
+        "address": "Shaw Ridge Leisure Park, Whitehill Way, Swindon SN5 7DN, UK",
+        "lat": 51.560712,
+        "lng": -1.831655
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 93,
+    "fields": {
+        "name": "Telford",
+        "slug": "telford",
+        "address": "Southwater Square, Telford TF3 4HS, UK",
+        "lat": 52.67378919999999,
+        "lng": -2.4482886
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 94,
+    "fields": {
+        "name": "Wakefield",
+        "slug": "wakefield",
+        "address": "Westgate Retail & Lesuire Westgate Retail & Leisure Park, Colinsway, Wakefield WF2 9SH, UK",
+        "lat": 53.6770496,
+        "lng": -1.5058062
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 95,
+    "fields": {
+        "name": "Warrington",
+        "slug": "warrington",
+        "address": "Time Square Unit 8, Warrington WA1 2LH, UK",
+        "lat": 53.3882688,
+        "lng": -2.5908679
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 96,
+    "fields": {
+        "name": "Watford",
+        "slug": "watford",
+        "address": "Charter Pl, Watford WD17 2DJ, UK",
+        "lat": 51.656065,
+        "lng": -0.3964278
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 97,
+    "fields": {
+        "name": "Weston-super-Mare",
+        "slug": "weston-super-mare",
+        "address": "Dolphin Square, 7 Central Walk, Weston-super-Mare BS23 1FF, UK",
+        "lat": 51.3455909,
+        "lng": -2.9786108
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 98,
+    "fields": {
+        "name": "Weymouth",
+        "slug": "weymouth",
+        "address": "New Bond St, Weymouth DT4 8LY, UK",
+        "lat": 50.6097209,
+        "lng": -2.4556643
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 99,
+    "fields": {
+        "name": "Whiteley",
+        "slug": "whiteley",
+        "address": "Whiteley Shopping Centre, Whiteley Wy, Whiteley, Fareham PO15 7PD, UK",
+        "lat": 50.886198,
+        "lng": -1.2481961
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 100,
+    "fields": {
+        "name": "Witney",
+        "slug": "witney",
+        "address": "Unit L3, Marriotts Walk, Witney OX28 6GW, UK",
+        "lat": 51.78802959999999,
+        "lng": -1.4861584
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 101,
+    "fields": {
+        "name": "Wolverhampton",
+        "slug": "wolverhampton",
+        "address": "Bentley Bridge Park, Wednesfield Wy, Wolverhampton WV11 1TZ, UK",
+        "lat": 52.596225,
+        "lng": -2.0926746
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 102,
+    "fields": {
+        "name": "Yate",
+        "slug": "yate",
+        "address": "11 Link Rd, Yate, Bristol BS37 4AY, UK",
+        "lat": 51.53910759999999,
+        "lng": -2.40845
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 103,
+    "fields": {
+        "name": "Yeovil",
+        "slug": "yeovil",
+        "address": "Yeo Leisure Park, Old Station Way, Yeovil BA20 1NP, UK",
+        "lat": 50.9404358,
+        "lng": -2.6256929
+    }
+},
+{
+    "model": "core.cinema",
+    "pk": 104,
+    "fields": {
+        "name": "York",
+        "slug": "york",
+        "address": "York Community Stadium, Kathryn Ave, Huntington, York YO32 9AF, UK",
+        "lat": 53.98348610000001,
+        "lng": -1.0523302
+    }
+}
+]

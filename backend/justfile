@@ -1,0 +1,62 @@
+# Vars
+
+db_name := "xmas_films_test"
+
+# Requirements and dependencies
+
+create-venv:
+	python3 -m venv .venv
+
+ensure-pip-tools:
+	pip install --upgrade pip
+	pip install pip-tools
+
+generate-requirements: ensure-pip-tools
+	pip-compile requirements.base.in requirements.dev.in requirements.production.in --output-file=requirements.dev.txt
+	pip-compile requirements.base.in requirements.production.in --output-file=requirements.txt
+
+install-requirements: ensure-pip-tools
+	pip-sync requirements.dev.txt
+
+requirements:
+	just generate-requirements
+	just install-requirements
+
+# Local DB
+
+create-local-db-user:
+	psql --command 'CREATE ROLE djangouser LOGIN'
+
+create-local-db:
+	-psql --command 'CREATE DATABASE {{ db_name }}'
+	psql --command 'GRANT ALL ON DATABASE {{ db_name }} to djangouser'
+	psql --command 'ALTER DATABASE {{ db_name }} SET timezone TO UTC'
+	python manage.py createcachetable
+
+delete-local-db:
+	psql --command 'DROP DATABASE IF EXISTS {{ db_name }}'
+
+reset-local-db: delete-local-db create-local-db
+	python manage.py migrate
+
+reset-migrations:
+	find . -path "*/migrations/*.py" -not -path "./.venv/*" -not -name "__init__.py" -delete
+	find . -path "*/migrations/*.pyc" -not -path "./.venv/*" -delete
+	python manage.py makemigrations
+	just reset-local-db
+
+# Format and lint
+
+format:
+	black .
+	isort .
+	find . -not -path "./.venv/*" -name "*.html" | xargs djhtml --tabwidth 2
+
+lint:
+	ruff check .
+	curlylint .
+
+# Test
+
+test:
+	pytest . -s

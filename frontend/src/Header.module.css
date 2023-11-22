@@ -1,0 +1,61 @@
+.main {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.link {
+  display: block;
+}
+
+.buttons {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.faqButton,
+.backButton {
+  position: absolute;
+  top: 1rem;
+}
+
+.faqButton {
+  right: 1rem;
+}
+.backButton {
+  left: 1rem;
+}
+
+@media (max-width: 639px) {
+  .faqButton {
+    right: 0.5rem;
+  }
+  .backButton {
+    left: 0.5rem;
+  }
+  .faqButton,
+  .backButton {
+    top: 0.5rem;
+  }
+}
+
+.logo {
+  width: calc(270px * 0.5);
+  height: calc(220px * 0.5);
+  display: block;
+}
+
+@media (min-width: 420px) {
+  .logo {
+    width: calc(270px * 0.75);
+    height: calc(220px * 0.75);
+  }
+}
+
+@media (min-width: 500px) {
+  .logo {
+    width: 270px;
+    height: 220px;
+  }
+}

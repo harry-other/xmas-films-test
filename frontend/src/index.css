@@ -1,0 +1,127 @@
+@font-face {
+  font-family: "TESCO Modern Bold";
+  src: url("fonts/7c88ea12f053a84c3d05764a6cc62b4e.eot");
+  src: url("fonts/7c88ea12f053a84c3d05764a6cc62b4e.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/7c88ea12f053a84c3d05764a6cc62b4e.woff") format("woff"),
+    url("fonts/7c88ea12f053a84c3d05764a6cc62b4e.woff2") format("woff2"),
+    url("fonts/7c88ea12f053a84c3d05764a6cc62b4e.ttf") format("truetype"),
+    url("fonts/7c88ea12f053a84c3d05764a6cc62b4e.svg#TESCO Modern Bold")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "TESCO Modern";
+  src: url("fonts/07eedf76537449d9e77ebf51398065d7.eot");
+  src: url("fonts/07eedf76537449d9e77ebf51398065d7.eot?#iefix")
+      format("embedded-opentype"),
+    url("fonts/07eedf76537449d9e77ebf51398065d7.woff") format("woff"),
+    url("fonts/07eedf76537449d9e77ebf51398065d7.woff2") format("woff2"),
+    url("fonts/07eedf76537449d9e77ebf51398065d7.ttf") format("truetype"),
+    url("fonts/07eedf76537449d9e77ebf51398065d7.svg#TESCO Modern") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: "TESCO Modern", sans-serif;
+  color: white;
+  margin: 0;
+  position: relative;
+  font-size: 1rem;
+}
+
+#root {
+  position: relative;
+}
+
+#root::after {
+  background-image: url("images/background.jpg");
+  background-size: 100% auto;
+  content: "";
+  height: 100%;
+  left: 0;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+@media (max-width: 639px) {
+  body {
+    font-size: 0.875rem;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+input[type="checkbox"] {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+select {
+  appearance: none;
+  border-radius: 99999px;
+  border: 1px solid #999;
+  font-size: inherit;
+  padding: 0.75rem 1.5rem;
+  width: 100%;
+}
+
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: inherit;
+  padding: 0;
+  text-align: inherit;
+}
+
+input {
+  border-radius: 99999px;
+  border: 1px solid grey;
+  font-size: 1rem;
+  padding: 0.75rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}

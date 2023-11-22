@@ -1,0 +1,18 @@
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  width: 100%;
+}
+
+@media (min-width: 640px) {
+  .main {
+    margin: -2rem -0.5rem;
+  }
+}
+
+.comingSoon {
+  font-size: 2rem;
+  font-family: "TESCO Modern Bold", sans-serif;
+}
