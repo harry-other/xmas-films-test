@@ -28,6 +28,7 @@ The tasks we'd like you to perform are as follows:
 - A `Ticket` is valid for a specific `Film` - this should match the `Film` for the `Screening` being reserved
 - If the quantity is zero, all the `Ticket` set should be unlinked from the `Reservation`
 - If the `Film` is changed as part of the update, the current `Ticket` set should be unlinked, and a new set for the correct `Film` linked instead
+- Tests should be added to cover this new functionality
 
 4. Chunk-based AccessCode creation
 
