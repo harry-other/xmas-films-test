@@ -4,7 +4,7 @@ from io import BytesIO
 
 from django.core.files.base import ContentFile
 from django.core.validators import MaxValueValidator
-from django.db import models
+from django.db import models, transaction
 from django.utils.text import slugify
 
 import qrcode
@@ -143,7 +143,31 @@ or cancellation email if set to 0",
         self.save()
 
     def allocate_tickets(self):
-        print("Allocating tickets for reservation:", self.reservation_id)
+        tickets = self.ticket_set.all()
+
+        for ticket in self.ticket_set.all():
+            if ticket.film != self.screening.film:
+                ticket.reservation = None
+                ticket.save(update_fields=["reservation"])
+
+        tickets = self.ticket_set.all()
+        ticket_count = tickets.count()
+        if ticket_count > self.quantity:
+            extra_tickets = tickets[self.quantity :]
+            for extra_ticket in extra_tickets:
+                extra_ticket.reservation = None
+                extra_ticket.save(update_fields=["reservation"])
+
+        elif ticket_count < self.quantity:
+            with transaction.atomic():
+                tickets = Ticket.objects.filter(
+                    reservation__isnull=True, film=self.screening.film
+                ).select_for_update()[: self.quantity - ticket_count]
+                for ticket in tickets:
+                    ticket.reservation = self
+                    ticket.save(update_fields=["reservation"])
+            for ticket in tickets:
+                ticket.create_image()
 
     def get_details(self):
         quantity = self.quantity

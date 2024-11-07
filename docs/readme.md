@@ -21,16 +21,7 @@ The tasks we'd like you to perform are as follows:
 - This status should be added to the `ScreeningSerializer` so it can be used on the FE
 - Tests should be added to cover this new functionality
 
-3. Re-instate the `allocate_tickets` method on the `Reservation` model
-
-- This is called when a `Reservation` is created or updated (if the project was larger we would have made custom workflows to do this, rather than overloading the change form to provide the update capability)
-- This function should assign a set of `Ticket` rows to the `Reservation`, depending on the `quantity` set
-- A `Ticket` is valid for a specific `Film` - this should match the `Film` for the `Screening` being reserved
-- If the quantity is zero, all the `Ticket` set should be unlinked from the `Reservation`
-- If the `Film` is changed as part of the update, the current `Ticket` set should be unlinked, and a new set for the correct `Film` linked instead
-- Tests should be added to cover this new functionality
-
-4. Chunk-based AccessCode creation
+3. Chunk-based AccessCode creation
 
 - Create a management command to generate random access codes (should be passed in via a CLI arg)
 - The codes should be in the format XXXX-XXXX-XXXX-XXXX where x is an uppercase letter or number, vowels should be excluded to avoid innappropriate words from being formed
