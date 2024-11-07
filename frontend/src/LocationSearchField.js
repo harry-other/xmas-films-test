@@ -7,8 +7,9 @@ import Button from "./Button";
 import LocationResults from "./LocationResults";
 import styles from "./LocationSearchField.module.css";
 
-const PRODUCTION_API_KEY = "AIzaSyCIDb5Eoq1d5q805nS_jSQmpxKOlf-OY5c";
-const LOCAL_API_KEY = "AIzaSyBvHsUx5zPUif5ZtFajRRtrt-FyGZJ7faw";
+// NB Previous API keys have been deleted as this project is no longer live
+const PRODUCTION_API_KEY = "XXX";
+const LOCAL_API_KEY = "XXX";
 
 const API_KEY =
   process.env.NODE_ENV === "production" ? PRODUCTION_API_KEY : LOCAL_API_KEY;
