@@ -168,3 +168,13 @@ def test_screenings_with_no_capacity(client, create_screening, create_reservatio
     response = client.get("/api/screenings/")
     assert response.status_code == 200
     assert response.json() == []
+
+
+@pytest.mark.django_db
+def test_screenings__sold_out_status(client, create_screening, create_reservation, create_film):
+    screening = create_screening(capacity=4, film=create_film(live=True))
+    create_reservation(screening, quantity=4)
+
+    response = client.get("/api/screenings/")
+    assert response.status_code == 200
+    assert response.json()[0]["sold_out"] is True

@@ -25,12 +25,12 @@ requirements:
 # Local DB
 
 create-local-db-user:
-	psql --command 'CREATE ROLE djangouser LOGIN'
+	psql -d postgres --command 'CREATE ROLE djangouser LOGIN'
 
 create-local-db:
-	-psql --command 'CREATE DATABASE {{ db_name }}'
-	psql --command 'GRANT ALL ON DATABASE {{ db_name }} to djangouser'
-	psql --command 'ALTER DATABASE {{ db_name }} SET timezone TO UTC'
+	-psql -d postgres --command 'CREATE DATABASE {{ db_name }}'
+	psql -d postgres --command 'GRANT ALL ON DATABASE {{ db_name }} to djangouser'
+	psql -d postgres --command 'ALTER DATABASE {{ db_name }} SET timezone TO UTC'
 	python manage.py createcachetable
 
 delete-local-db:

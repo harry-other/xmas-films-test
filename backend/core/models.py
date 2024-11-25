@@ -11,6 +11,8 @@ import qrcode
 from django_lifecycle import AFTER_CREATE, AFTER_UPDATE, LifecycleModel, hook
 from hashids import Hashids
 
+from .managers import ReservationsManager
+from .querysets import ScreeningQuerySet
 from .utils import tz_date_formatted
 
 logger = logging.getLogger(__name__)
@@ -63,6 +65,9 @@ class Film(models.Model):
 
 
 class Screening(models.Model):
+
+    objects = ScreeningQuerySet.as_manager()
+
     class Meta:
         ordering = ["cinema__name", "starts_at"]
 
@@ -95,6 +100,9 @@ class AccessCode(models.Model):
 
 
 class Reservation(LifecycleModel):
+
+    objects = ReservationsManager()
+
     class Meta:
         ordering = ["-created_at"]
 

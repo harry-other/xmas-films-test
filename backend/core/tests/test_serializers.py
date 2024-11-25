@@ -1,6 +1,7 @@
 import pytest
 
-from core.serializers import Reservation, ReservationSerializer
+from core.serializers import Reservation, ReservationSerializer, ScreeningSerializer
+from core.models import Screening
 
 
 @pytest.mark.django_db
@@ -157,3 +158,19 @@ def test_reservation_serializer_access_code_valid_for_failure(
         reservation_serializer.errors["access_code"][0]
         == "Sorry, this code is not valid for this film"
     )
+
+
+@pytest.mark.django_db
+def test_screening_serializer__with_sold_out(create_cinema, create_film, create_screening, create_reservation):
+    # Arrange
+    first_screening = create_screening(capacity=4)
+    create_screening(capacity=10, cinema=create_cinema("Cinema 2"), film=create_film("Film 2"))
+    create_reservation(screening=first_screening, quantity=4)
+
+    # Act
+    all_screenings = Screening.objects.with_sold_out()
+    serialized_data = ScreeningSerializer(all_screenings, many=True).data
+
+    # Assert
+    assert serialized_data[0]["sold_out"] is True
+    assert serialized_data[1]["sold_out"] is False
